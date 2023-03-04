@@ -30,7 +30,7 @@ clear
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/Vlukss/Script/sstp"
+akbarvpn="raw.githubusercontent.com/Vlukss/Script/main/sstp"
 
 MYIP=$(wget -qO- ipinfo.io/ip);
 MYIP2="s/xxxxxxxxx/$MYIP/g";
